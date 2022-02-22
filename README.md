@@ -20,7 +20,11 @@ Download the ZIP from this [Link](https://github.com/DyaryRaoof/hello-rails-back
 - Install the required dependecies with `bundle install`
 - run `db:migrate`
 - rub `db:seed`
-- Use `rails s `to run the program
+- Use `rails s -p 3001`to run the program
+
+
+## Front End Repo
+https://github.com/DyaryRaoof/hello-react-frontend
 
 
 ## Author
